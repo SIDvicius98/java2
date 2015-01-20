@@ -19,7 +19,7 @@ public class LenjuajesJc {
      */
     public static void main(String[] args) {
         
-        System.out.println("mi primer programa java2");
+        System.out.println("mi primer programa java2 modificada");
         // TODO code application logic here
     }
     
